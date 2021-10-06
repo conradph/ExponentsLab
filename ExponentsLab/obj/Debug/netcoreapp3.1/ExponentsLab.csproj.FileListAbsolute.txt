@@ -1,0 +1,14 @@
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\bin\Debug\netcoreapp3.1\ExponentsLab.exe
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\bin\Debug\netcoreapp3.1\ExponentsLab.deps.json
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\bin\Debug\netcoreapp3.1\ExponentsLab.runtimeconfig.json
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\bin\Debug\netcoreapp3.1\ExponentsLab.runtimeconfig.dev.json
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\bin\Debug\netcoreapp3.1\ExponentsLab.dll
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\bin\Debug\netcoreapp3.1\ExponentsLab.pdb
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\obj\Debug\netcoreapp3.1\ExponentsLab.csproj.AssemblyReference.cache
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\obj\Debug\netcoreapp3.1\ExponentsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\obj\Debug\netcoreapp3.1\ExponentsLab.AssemblyInfoInputs.cache
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\obj\Debug\netcoreapp3.1\ExponentsLab.AssemblyInfo.cs
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\obj\Debug\netcoreapp3.1\ExponentsLab.csproj.CoreCompileInputs.cache
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\obj\Debug\netcoreapp3.1\ExponentsLab.dll
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\obj\Debug\netcoreapp3.1\ExponentsLab.pdb
+C:\Users\PConrad\source\repos\ExponentsLab\ExponentsLab\obj\Debug\netcoreapp3.1\ExponentsLab.genruntimeconfig.cache
